@@ -1,0 +1,348 @@
+{
+  "sop_shifthistory": [
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-04 18:30:00.000 +0000",
+      "todate": "2025-02-04 18:30:00.000 +0000",
+      "shiftid": 3,
+      "zone": "3.2",
+      "actiontype": "Create",
+      "description": "88880000 created a shift",
+      "updatetime": "2025-02-03 15:46:56.128 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-04 18:30:00.000 +0000",
+      "todate": "2025-02-04 18:30:00.000 +0000",
+      "shiftid": 2,
+      "zone": "3.2",
+      "actiontype": "Create",
+      "description": "88880000 created a shift",
+      "updatetime": "2025-02-03 15:46:56.128 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-04 18:30:00.000 +0000",
+      "todate": "2025-02-04 18:30:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.2",
+      "actiontype": "Create",
+      "description": "88880000 created a shift",
+      "updatetime": "2025-02-03 15:46:56.128 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-04 18:30:00.000 +0000",
+      "todate": "2025-02-04 18:30:00.000 +0000",
+      "shiftid": 3,
+      "zone": "3.1",
+      "actiontype": "Create",
+      "description": "88880000 created a shift",
+      "updatetime": "2025-02-03 15:46:56.128 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-04 18:30:00.000 +0000",
+      "todate": "2025-02-04 18:30:00.000 +0000",
+      "shiftid": 2,
+      "zone": "3.1",
+      "actiontype": "Create",
+      "description": "88880000 created a shift",
+      "updatetime": "2025-02-03 15:46:56.128 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-04 18:30:00.000 +0000",
+      "todate": "2025-02-04 18:30:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.1",
+      "actiontype": "Create",
+      "description": "88880000 created a shift",
+      "updatetime": "2025-02-03 15:46:56.128 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-04 00:00:00.000 +0000",
+      "todate": "2025-02-04 00:00:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.1",
+      "actiontype": "Delete",
+      "description": "88880000 deleted a shift",
+      "updatetime": "2025-02-03 15:46:19.446 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "88880000",
+      "fromdate": "2025-02-05 00:00:00.000 +0000",
+      "todate": "2025-02-05 00:00:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.1",
+      "actiontype": "Delete",
+      "description": "88880000 deleted a shift",
+      "updatetime": "2025-02-03 15:46:16.592 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0006525",
+      "fromdate": "2024-10-01 00:00:00.000 +0000",
+      "todate": "2024-10-01 00:00:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.1",
+      "actiontype": "Delete",
+      "description": "G0006525 deleted a shift",
+      "updatetime": "2024-09-12 12:34:31.441 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0006525",
+      "fromdate": "2024-10-01 00:00:00.000 +0000",
+      "todate": "2024-10-01 00:00:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.2",
+      "actiontype": "Delete",
+      "description": "G0006525 deleted a shift",
+      "updatetime": "2024-09-12 12:34:33.433 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0006525",
+      "fromdate": "2024-10-01 00:00:00.000 +0000",
+      "todate": "2024-10-01 00:00:00.000 +0000",
+      "shiftid": 1,
+      "zone": "4",
+      "actiontype": "Delete",
+      "description": "G0006525 deleted a shift",
+      "updatetime": "2024-09-12 12:34:35.294 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0006525",
+      "fromdate": "2024-10-01 00:00:00.000 +0000",
+      "todate": "2024-10-01 00:00:00.000 +0000",
+      "shiftid": 1,
+      "zone": "4",
+      "actiontype": "Delete",
+      "description": "G0006525 deleted a shift",
+      "updatetime": "2024-09-12 12:34:37.401 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0006525",
+      "fromdate": "2024-10-01 18:30:00.000 +0000",
+      "todate": "2024-10-01 18:30:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.1",
+      "actiontype": "Create",
+      "description": "G0006525 created a shift",
+      "updatetime": "2024-09-12 12:47:03.239 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0006525",
+      "fromdate": "2024-10-01 00:00:00.000 +0000",
+      "todate": "2024-10-01 00:00:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.1",
+      "actiontype": "Delete",
+      "description": "G0006525 deleted a shift",
+      "updatetime": "2024-09-12 12:47:33.272 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0006523",
+      "fromdate": "2024-10-01 18:30:00.000 +0000",
+      "todate": "2024-10-01 18:30:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.2",
+      "actiontype": "Create",
+      "description": "G0006523 created a shift",
+      "updatetime": "2024-09-13 10:24:21.603 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0004950",
+      "fromdate": "2024-09-18 18:30:00.000 +0000",
+      "todate": "2024-09-18 18:30:00.000 +0000",
+      "shiftid": 1,
+      "zone": "4",
+      "actiontype": "Create",
+      "description": "G0004950 created a shift",
+      "updatetime": "2024-09-17 13:58:19.454 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0004950",
+      "fromdate": "2024-10-01 18:30:00.000 +0000",
+      "todate": "2024-10-31 18:30:00.000 +0000",
+      "shiftid": 1,
+      "zone": "3.1",
+      "actiontype": "Create",
+      "description": "G0004950 created a shift",
+      "updatetime": "2024-09-17 14:40:42.285 +0530",
+      "isenabled": 1
+    },
+    {
+      "useradid": "G0004950",
+      "fromdate": "2024-09-01 18:30:00.000 +0000",
+      "todate": "2024-09-30 18:30:00.000 +0000",
+      "shiftid": 1,
+      "zone": "4",
+      "actiontype": "Create",
+      "description": "G0004950 created a shift",
+      "updatetime": "2024-09-17 15:13:25.296 +0530",
+      "isenabled": 1
+    }
+  ],
+  "sop_shiftbreakhistory": [
+    {
+      "time": "2025-02-03 17:04:47.111 +0530",
+      "shiftid": 1,
+      "useradid": "88880000",
+      "breakstart": "01:30:01Z",
+      "breakend": "01:40:01Z",
+      "breakdescription": "testing",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2025-02-03 17:04:35.474 +0530",
+      "shiftid": 1,
+      "useradid": "88880000",
+      "breakstart": "01:30:01Z",
+      "breakend": "01:40:01Z",
+      "breakdescription": "testing",
+      "actiontype": "Create"
+    },
+    {
+      "time": "2025-02-03 17:03:41.694 +0530",
+      "shiftid": 1,
+      "useradid": "88880000",
+      "breakstart": "01:30:01Z",
+      "breakend": "01:50:01Z",
+      "breakdescription": "example",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2025-02-03 17:03:38.617 +0530",
+      "shiftid": 1,
+      "useradid": "88880000",
+      "breakstart": "01:30:01Z",
+      "breakend": "01:50:01Z",
+      "breakdescription": "example",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2025-02-03 17:03:35.621 +0530",
+      "shiftid": 1,
+      "useradid": "88880000",
+      "breakstart": "01:40:01Z",
+      "breakend": "02:00:01Z",
+      "breakdescription": "testing",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2025-02-03 17:01:07.959 +0530",
+      "shiftid": 1,
+      "useradid": "88880000",
+      "breakstart": "01:30:01Z",
+      "breakend": "01:50:01Z",
+      "breakdescription": "example",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2024-09-10 11:27:18.548 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "02:40:00Z",
+      "breakend": "04:30:00Z",
+      "breakdescription": "testing",
+      "actiontype": "Create"
+    },
+    {
+      "time": "2024-09-10 11:30:27.170 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "02:40:00Z",
+      "breakend": "04:30:00Z",
+      "breakdescription": "testing",
+      "actiontype": "Create"
+    },
+    {
+      "time": "2024-09-10 11:33:58.740 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "01:00:00Z",
+      "breakend": "01:12:00Z",
+      "breakdescription": "Calibration",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2024-09-10 11:40:07.279 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "01:30:00Z",
+      "breakend": "06:20:00Z",
+      "breakdescription": "testing",
+      "actiontype": "Create"
+    },
+    {
+      "time": "2024-09-10 11:40:25.957 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "07:00:00Z",
+      "breakend": "09:30:00Z",
+      "breakdescription": "testing",
+      "actiontype": "Create"
+    },
+    {
+      "time": "2024-09-10 11:40:33.165 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "05:00:00Z",
+      "breakend": "05:30:00Z",
+      "breakdescription": "Lunch",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2024-09-10 11:40:34.306 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "02:00:00Z",
+      "breakend": "02:40:00Z",
+      "breakdescription": "First tea time",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2024-09-10 11:40:35.375 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "07:00:00Z",
+      "breakend": "07:10:00Z",
+      "breakdescription": "Second Break",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2024-09-10 11:40:44.645 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "01:00:00Z",
+      "breakend": "01:12:00Z",
+      "breakdescription": "Calibration",
+      "actiontype": "Delete"
+    },
+    {
+      "time": "2024-09-10 11:40:45.746 +0530",
+      "shiftid": 1,
+      "useradid": "G0006525",
+      "breakstart": "05:00:00Z",
+      "breakend": "05:30:00Z",
+      "breakdescription": "Lunch",
+      "actiontype": "Delete"
+    }
+  ]
+}

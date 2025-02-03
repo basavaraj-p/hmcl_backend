@@ -1,0 +1,794 @@
+{
+  "sop_assets": [
+    {
+      "assetid": 10001,
+      "machinename": "ZONE 1",
+      "zone": 1.0,
+      "cycletime": 162.0,
+      "isbottleneck": 0,
+      "machineshortname": "Z1",
+      "machinetype": 1,
+      "actualcycletime": 170.0
+    },
+    {
+      "assetid": 20001,
+      "machinename": "ZONE 2",
+      "zone": 2.0,
+      "cycletime": 162.0,
+      "isbottleneck": 0,
+      "machineshortname": "Z2",
+      "machinetype": 1,
+      "actualcycletime": 165.0
+    },
+    {
+      "assetid": 20011,
+      "machinename": "Leak Testing",
+      "zone": 2.0,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "Z1leaktesting",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31001,
+      "machinename": "Z Fixation",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "31ZFixation",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31002,
+      "machinename": "Welding Station 1",
+      "zone": 3.1,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "31WS1",
+      "machinetype": 1,
+      "actualcycletime": 243.0
+    },
+    {
+      "assetid": 31003,
+      "machinename": "Welding Station 2",
+      "zone": 3.1,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "31WS2",
+      "machinetype": 1,
+      "actualcycletime": 287.0
+    },
+    {
+      "assetid": 31004,
+      "machinename": "Welding Station 3",
+      "zone": 3.1,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "31WS3",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 31005,
+      "machinename": "Welding Station 4",
+      "zone": 3.1,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "31WS4",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 31006,
+      "machinename": "Welding integrity",
+      "zone": 3.1,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "31WI",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 31007,
+      "machinename": "BMS",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "31BMS",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31008,
+      "machinename": "Foam",
+      "zone": 3.1,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "31Foam",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 31009,
+      "machinename": "Thermal",
+      "zone": 3.1,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "31Thermal",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 31010,
+      "machinename": "Insertion",
+      "zone": 3.1,
+      "cycletime": 277.0,
+      "isbottleneck": 1,
+      "machineshortname": "31Insertion",
+      "machinetype": 1,
+      "actualcycletime": 330.0
+    },
+    {
+      "assetid": 31011,
+      "machinename": "Leak Testing",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "31LeakTesting",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31012,
+      "machinename": "Foaming Drum A",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31013,
+      "machinename": "Foaming Drum B",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31014,
+      "machinename": "Thermal Drum A",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31015,
+      "machinename": "Thermal Drum B",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31016,
+      "machinename": "Insertion Drum A",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31017,
+      "machinename": "Insertion Drum B",
+      "zone": 3.1,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 31018,
+      "machinename": "Insertion Partial",
+      "zone": 3.1,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "31Insertion",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 31020,
+      "machinename": "Energy meter",
+      "zone": 3.1,
+      "cycletime": null,
+      "isbottleneck": 0,
+      "machineshortname": "31Energymeter",
+      "machinetype": 1,
+      "actualcycletime": null
+    },
+    {
+      "assetid": 31022,
+      "machinename": "Weld Melt",
+      "zone": 3.1,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 32001,
+      "machinename": "Z Fixation",
+      "zone": 3.2,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "32ZFixation",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 32002,
+      "machinename": "Welding Station 1",
+      "zone": 3.2,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "32WS1",
+      "machinetype": 1,
+      "actualcycletime": 243.0
+    },
+    {
+      "assetid": 32003,
+      "machinename": "Welding Station 2",
+      "zone": 3.2,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "32WS2",
+      "machinetype": 1,
+      "actualcycletime": 243.0
+    },
+    {
+      "assetid": 32004,
+      "machinename": "Welding Station 3",
+      "zone": 3.2,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "32WS3",
+      "machinetype": 1,
+      "actualcycletime": 287.0
+    },
+    {
+      "assetid": 32005,
+      "machinename": "Welding Station 4",
+      "zone": 3.2,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "32WS4",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 32006,
+      "machinename": "Welding integrity",
+      "zone": 3.2,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "32WI",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 32007,
+      "machinename": "BMS",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "32BMS",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32008,
+      "machinename": "Foam",
+      "zone": 3.2,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "32Foam",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 32009,
+      "machinename": "Thermal",
+      "zone": 3.2,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "32Thermal",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 32010,
+      "machinename": "Insertion",
+      "zone": 3.2,
+      "cycletime": 277.0,
+      "isbottleneck": 1,
+      "machineshortname": "32Insertion",
+      "machinetype": 1,
+      "actualcycletime": 330.0
+    },
+    {
+      "assetid": 32011,
+      "machinename": "Leak Testing",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "32LeakTesting",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32012,
+      "machinename": "Foaming Drum A",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "",
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32013,
+      "machinename": "Foaming Drum B",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32014,
+      "machinename": "Thermal Drum A",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32015,
+      "machinename": "Thermal Drum B",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32016,
+      "machinename": "Insertion Drum A",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32017,
+      "machinename": "Insertion Drum B",
+      "zone": 3.2,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 32018,
+      "machinename": "Insertion Partial",
+      "zone": 3.2,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "32Insertion",
+      "machinetype": 1,
+      "actualcycletime": 330.0
+    },
+    {
+      "assetid": 32020,
+      "machinename": "Energy meter",
+      "zone": 3.2,
+      "cycletime": null,
+      "isbottleneck": 0,
+      "machineshortname": "32Energymeter",
+      "machinetype": 1,
+      "actualcycletime": null
+    },
+    {
+      "assetid": 32022,
+      "machinename": "Weld Melt",
+      "zone": 3.2,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 33001,
+      "machinename": "Z Fixation",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "33ZFixation",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33002,
+      "machinename": "Welding Station 1",
+      "zone": 3.3,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "33WS1",
+      "machinetype": 1,
+      "actualcycletime": 243.0
+    },
+    {
+      "assetid": 33003,
+      "machinename": "Welding Station 2",
+      "zone": 3.3,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "33WS2",
+      "machinetype": 1,
+      "actualcycletime": 287.0
+    },
+    {
+      "assetid": 33004,
+      "machinename": "Welding Station 3",
+      "zone": 3.3,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "33WS3",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 33005,
+      "machinename": "Welding Station 4",
+      "zone": 3.3,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "33WS4",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 33006,
+      "machinename": "Welding integrity",
+      "zone": 3.3,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "33WI",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 33007,
+      "machinename": "BMS",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "33BMS",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33008,
+      "machinename": "Foam",
+      "zone": 3.3,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "33Foam",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 33009,
+      "machinename": "Thermal",
+      "zone": 3.3,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "33Thermal",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 33010,
+      "machinename": "Insertion",
+      "zone": 3.3,
+      "cycletime": 277.0,
+      "isbottleneck": 1,
+      "machineshortname": "33Insertion",
+      "machinetype": 1,
+      "actualcycletime": 330.0
+    },
+    {
+      "assetid": 33011,
+      "machinename": "Leak Testing",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "33LeakTesting",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33012,
+      "machinename": "Foaming Drum A",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "",
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33013,
+      "machinename": "Foaming Drum B",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "",
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33014,
+      "machinename": "Thermal Drum A",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "",
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33015,
+      "machinename": "Thermal Drum B",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "",
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33016,
+      "machinename": "Insertion Drum A",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "",
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 33017,
+      "machinename": "Insertion Drum B",
+      "zone": 3.3,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "",
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34001,
+      "machinename": "Z Fixation",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "34ZFixation",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34002,
+      "machinename": "Welding Station 1",
+      "zone": 3.4,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "34WS1",
+      "machinetype": 1,
+      "actualcycletime": 243.0
+    },
+    {
+      "assetid": 34003,
+      "machinename": "Welding Station 2",
+      "zone": 3.4,
+      "cycletime": 243.0,
+      "isbottleneck": 0,
+      "machineshortname": "34WS2",
+      "machinetype": 1,
+      "actualcycletime": 287.0
+    },
+    {
+      "assetid": 34004,
+      "machinename": "Welding Station 3",
+      "zone": 3.4,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "34WS3",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 34005,
+      "machinename": "Welding Station 4",
+      "zone": 3.4,
+      "cycletime": 277.0,
+      "isbottleneck": 0,
+      "machineshortname": "34WS4",
+      "machinetype": 1,
+      "actualcycletime": 277.0
+    },
+    {
+      "assetid": 34006,
+      "machinename": "Welding integrity",
+      "zone": 3.4,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "34WI",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 34007,
+      "machinename": "BMS",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "34BMS",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34008,
+      "machinename": "Foam",
+      "zone": 3.4,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "34Foam",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 34009,
+      "machinename": "Thermal",
+      "zone": 3.4,
+      "cycletime": 324.0,
+      "isbottleneck": 0,
+      "machineshortname": "34Thermal",
+      "machinetype": 1,
+      "actualcycletime": 324.0
+    },
+    {
+      "assetid": 34010,
+      "machinename": "Insertion",
+      "zone": 3.4,
+      "cycletime": 277.0,
+      "isbottleneck": 1,
+      "machineshortname": "34Insertion",
+      "machinetype": 1,
+      "actualcycletime": 330.0
+    },
+    {
+      "assetid": 34011,
+      "machinename": "Leak Testing",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": "34LeakTesting",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34012,
+      "machinename": "Foaming Drum A",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34013,
+      "machinename": "Foaming Drum B",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34014,
+      "machinename": "Thermal Drum A",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34015,
+      "machinename": "Thermal Drum B",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34016,
+      "machinename": "Insertion Drum A",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 34017,
+      "machinename": "Insertion Drum B",
+      "zone": 3.4,
+      "cycletime": 999.0,
+      "isbottleneck": 0,
+      "machineshortname": null,
+      "machinetype": 0,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 40001,
+      "machinename": "EOL",
+      "zone": 4.0,
+      "cycletime": 960.0,
+      "isbottleneck": 1,
+      "machineshortname": "EOL",
+      "machinetype": 1,
+      "actualcycletime": 999.0
+    },
+    {
+      "assetid": 40005,
+      "machinename": "LaserMarking",
+      "zone": 4.0,
+      "cycletime": 90.0,
+      "isbottleneck": 1,
+      "machineshortname": "LaserMarking",
+      "machinetype": 1,
+      "actualcycletime": 800.0
+    }
+  ]
+}

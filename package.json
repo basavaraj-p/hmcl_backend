@@ -15,7 +15,7 @@
     }
   },
   "scripts": {
-    "start": "nodemon --ignore test.js index.js",
+    "start": "nodemon index.js",
     "build": "parcel build index.js --dist-dir ./dist",
     "serve": "node dist/index.js",
     "lint": "eslint .",
@@ -30,7 +30,8 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mssql": "^11.0.1",
-    "parcel": "^2.13.3"
+    "parcel": "^2.13.3",
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",

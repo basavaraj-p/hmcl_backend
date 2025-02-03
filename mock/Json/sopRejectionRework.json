@@ -1,0 +1,1061 @@
+{
+  "sop_defect_lookup": [
+    {
+      "defect_id": 1,
+      "defect_type": "Reject",
+      "defect_code": "D002",
+      "defect_name": "Cell with Less ACIR value",
+      "department": "SQA",
+      "station": "Cell Testing"
+    },
+    {
+      "defect_id": 2,
+      "defect_type": "Reject",
+      "defect_code": "D003",
+      "defect_name": "Cell with High ACIR value",
+      "department": "SQA",
+      "station": "Cell Testing"
+    },
+    {
+      "defect_id": 3,
+      "defect_type": "Reject",
+      "defect_code": "D004",
+      "defect_name": "Cells with Less OCV",
+      "department": "SQA",
+      "station": "Cell Testing"
+    },
+    {
+      "defect_id": 4,
+      "defect_type": "Rework",
+      "defect_code": "S002",
+      "defect_name": "Cells with  High OCV",
+      "department": "SQA",
+      "station": "Cell Testing"
+    },
+    {
+      "defect_id": 5,
+      "defect_type": "Reject",
+      "defect_code": "S003",
+      "defect_name": "Cell Bar Code NG",
+      "department": "SQA",
+      "station": "Cell Testing"
+    },
+    {
+      "defect_id": 6,
+      "defect_type": "Reject",
+      "defect_code": "S004",
+      "defect_name": "Cells expiry date crossed",
+      "department": "SQA",
+      "station": "Cell Testing"
+    },
+    {
+      "defect_id": 7,
+      "defect_type": "Reject",
+      "defect_code": "D005",
+      "defect_name": "Cell dent while cell testing",
+      "department": "SQA",
+      "station": "Cell Testing"
+    },
+    {
+      "defect_id": 8,
+      "defect_type": "Rework",
+      "defect_code": "S005",
+      "defect_name": "Middle Bus bar bend on Z fixation",
+      "department": "SQA",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 9,
+      "defect_type": "Rework",
+      "defect_code": "S006",
+      "defect_name": " Main Bus bar Positive bend",
+      "department": "SQA",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 10,
+      "defect_type": "Rework",
+      "defect_code": "S007",
+      "defect_name": " Main Bus bar Negative bend",
+      "department": "SQA",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 11,
+      "defect_type": "Rework",
+      "defect_code": "S008",
+      "defect_name": "Flex PCB damage",
+      "department": "SQA",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 12,
+      "defect_type": "Rework",
+      "defect_code": "S009",
+      "defect_name": "Middle bus bar bend on Z fixation",
+      "department": "SQA",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 13,
+      "defect_type": "Rework",
+      "defect_code": "S010",
+      "defect_name": "Main bus bar bend on Z fixation",
+      "department": "SQA",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 14,
+      "defect_type": "Reject",
+      "defect_code": "B002",
+      "defect_name": "RCH Bracket missed",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 15,
+      "defect_type": "Reject",
+      "defect_code": "B003",
+      "defect_name": "LCH Bracket missed",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 16,
+      "defect_type": "Reject",
+      "defect_code": "B004",
+      "defect_name": "Bottom bracket loaded with reverse orientation",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 17,
+      "defect_type": "Reject",
+      "defect_code": "B005",
+      "defect_name": "Top bracket loaded with reverse orientation",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 18,
+      "defect_type": "Reject",
+      "defect_code": "B006",
+      "defect_name": "Bracket mismatched (LCH in RCH jig and vice versa)",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 19,
+      "defect_type": "Reject",
+      "defect_code": "B007",
+      "defect_name": "Top and bottom closing part mismatch",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 20,
+      "defect_type": "Reject",
+      "defect_code": "B008",
+      "defect_name": "Cell bracket broken - Functional area",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 21,
+      "defect_type": "Reject",
+      "defect_code": "B009",
+      "defect_name": "Live cell reverse orientation",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 22,
+      "defect_type": "Reject",
+      "defect_code": "B010",
+      "defect_name": "Cell dent while stacking",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 23,
+      "defect_type": "Reject",
+      "defect_code": "B011",
+      "defect_name": "Positive cell terminal weld melt",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 24,
+      "defect_type": "Reject",
+      "defect_code": "B012",
+      "defect_name": "Negative cell terminal weld melt",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 25,
+      "defect_type": "Reject",
+      "defect_code": "B013",
+      "defect_name": "Flex PCB melt",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 26,
+      "defect_type": "Reject",
+      "defect_code": "B014",
+      "defect_name": "Positive Main bus bar melt",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 27,
+      "defect_type": "Reject",
+      "defect_code": "B015",
+      "defect_name": "Negative Main bus bar melt",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 28,
+      "defect_type": "Reject",
+      "defect_code": "B016",
+      "defect_name": "Cell Resistance off",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 29,
+      "defect_type": "Reject",
+      "defect_code": "B017",
+      "defect_name": "Foam Single Glue dispensed",
+      "department": "Battery Pack Assembly",
+      "station": "Foam"
+    },
+    {
+      "defect_id": 30,
+      "defect_type": "Reject",
+      "defect_code": "B018",
+      "defect_name": "Low Torque of Resistance clip",
+      "department": "Battery Pack Assembly",
+      "station": "Resistance Clip Assy."
+    },
+    {
+      "defect_id": 31,
+      "defect_type": "Reject",
+      "defect_code": "B019",
+      "defect_name": "BMS cover(stay) screw Low torque ",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 32,
+      "defect_type": "Reject",
+      "defect_code": "B020",
+      "defect_name": "BMS cover (stay) Screw threaswashout",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 33,
+      "defect_type": "Reject",
+      "defect_code": "B021",
+      "defect_name": "BMS cover(stay), BMS, Flex PCB, Main Bus Bar Screw Miss",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 34,
+      "defect_type": "Reject",
+      "defect_code": "B022",
+      "defect_name": "BMS connection to main bus bar nut under torque ",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 35,
+      "defect_type": "Reject",
+      "defect_code": "B023",
+      "defect_name": "BMS connection to main bus bar nut threaswashout",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 36,
+      "defect_type": "Reject",
+      "defect_code": "B024",
+      "defect_name": "BMS connection  to battery connector threaswashout",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 37,
+      "defect_type": "Reject",
+      "defect_code": "B025",
+      "defect_name": "Insertion Single Glue dispensed",
+      "department": "Battery Pack Assembly",
+      "station": "Insertion"
+    },
+    {
+      "defect_id": 38,
+      "defect_type": "Reject",
+      "defect_code": "B026",
+      "defect_name": "Connector Screw Thread washout",
+      "department": "Battery Pack Assembly",
+      "station": "Insertion"
+    },
+    {
+      "defect_id": 39,
+      "defect_type": "Reject",
+      "defect_code": "B027",
+      "defect_name": "Handle screw threadwashout",
+      "department": "Battery Pack Assembly",
+      "station": "Handle cover fitment"
+    },
+    {
+      "defect_id": 40,
+      "defect_type": "Reject",
+      "defect_code": "B028",
+      "defect_name": "Handle screw threadwashout",
+      "department": "Battery Pack Assembly",
+      "station": "Handle cover fitment"
+    },
+    {
+      "defect_id": 41,
+      "defect_type": "Reject",
+      "defect_code": "B029",
+      "defect_name": "EOL Delta High",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 42,
+      "defect_type": "Reject",
+      "defect_code": "B030",
+      "defect_name": "BMS Not Respond",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 43,
+      "defect_type": "Reject",
+      "defect_code": "B031",
+      "defect_name": "BMS Status 5 Error",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 44,
+      "defect_type": "Reject",
+      "defect_code": "B032",
+      "defect_name": "BMS Status 0 Error",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 45,
+      "defect_type": "Reject",
+      "defect_code": "B033",
+      "defect_name": "Battery Height more than spec",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 46,
+      "defect_type": "Reject",
+      "defect_code": "B034",
+      "defect_name": "Improper Laser marking - Text and barcode size wrong",
+      "department": "Battery Pack Assembly",
+      "station": "LaserMarking"
+    },
+    {
+      "defect_id": 47,
+      "defect_type": "Reject",
+      "defect_code": "B035",
+      "defect_name": "Battery Pack Appearance Dent ",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 48,
+      "defect_type": "Reject",
+      "defect_code": "B036",
+      "defect_name": "Battery Pack Appearance Scratch ",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 49,
+      "defect_type": "Reject",
+      "defect_code": "B037",
+      "defect_name": "Battery Pack Appearance Top lid open",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 50,
+      "defect_type": "Reject",
+      "defect_code": "B038",
+      "defect_name": "Battery Pack Appearance Bottom lid open",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 51,
+      "defect_type": "Rework",
+      "defect_code": "C002",
+      "defect_name": "Stack bolt Torque Low",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 52,
+      "defect_type": "Rework",
+      "defect_code": "C003",
+      "defect_name": "Stack bolt Torque High",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 53,
+      "defect_type": "Rework",
+      "defect_code": "C004",
+      "defect_name": "Stack bolt miss",
+      "department": "Battery Pack Assembly",
+      "station": "Stacking"
+    },
+    {
+      "defect_id": 54,
+      "defect_type": "Rework",
+      "defect_code": "C005",
+      "defect_name": "Dismantling of battery module before curing of glue",
+      "department": "Battery Pack Assembly",
+      "station": "Dismantling"
+    },
+    {
+      "defect_id": 55,
+      "defect_type": "Rework",
+      "defect_code": "C006",
+      "defect_name": "Bonding Open",
+      "department": "Battery Pack Assembly",
+      "station": "Dismantling"
+    },
+    {
+      "defect_id": 56,
+      "defect_type": "Rework",
+      "defect_code": "C007",
+      "defect_name": "Dummy cell reverse orientation",
+      "department": "Battery Pack Assembly",
+      "station": "Dismantling"
+    },
+    {
+      "defect_id": 57,
+      "defect_type": "Rework",
+      "defect_code": "C008",
+      "defect_name": "Cell bracket broken - Non Functional area",
+      "department": "Battery Pack Assembly",
+      "station": "Dismantling"
+    },
+    {
+      "defect_id": 58,
+      "defect_type": "Rework",
+      "defect_code": "C009",
+      "defect_name": "Cell fall down and replace with new cell",
+      "department": "Battery Pack Assembly",
+      "station": "Dismantling"
+    },
+    {
+      "defect_id": 59,
+      "defect_type": "Rework",
+      "defect_code": "C010",
+      "defect_name": "Middle Bus bar(s) miss",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 60,
+      "defect_type": "Rework",
+      "defect_code": "C011",
+      "defect_name": "Flex PCB miss",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 61,
+      "defect_type": "Rework",
+      "defect_code": "C012",
+      "defect_name": "Positive Main bus bar miss",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 62,
+      "defect_type": "Rework",
+      "defect_code": "C013",
+      "defect_name": "Negaitive Main bus bar miss",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 63,
+      "defect_type": "Rework",
+      "defect_code": "C014",
+      "defect_name": "Angel hairs after caulking",
+      "department": "Battery Pack Assembly",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 64,
+      "defect_type": "Rework",
+      "defect_code": "C015",
+      "defect_name": "Hot caulking miss ",
+      "department": "Battery Pack Assembly",
+      "station": "Z Fixation"
+    },
+    {
+      "defect_id": 65,
+      "defect_type": "Rework",
+      "defect_code": "C016",
+      "defect_name": "Welding Miss",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 66,
+      "defect_type": "Rework",
+      "defect_code": "C017",
+      "defect_name": "Positive Main bus bar melt",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 67,
+      "defect_type": "Rework",
+      "defect_code": "C018",
+      "defect_name": "Negative Main bus bar melt",
+      "department": "Battery Pack Assembly",
+      "station": "Welding Station"
+    },
+    {
+      "defect_id": 68,
+      "defect_type": "Rework",
+      "defect_code": "C019",
+      "defect_name": "Contact resistance measurement Low - Cell minus to cell plus weld",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 69,
+      "defect_type": "Rework",
+      "defect_code": "C020",
+      "defect_name": "Contact resistance measurement Low -Cell plus to cell bus bar plus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 70,
+      "defect_type": "Rework",
+      "defect_code": "C021",
+      "defect_name": "Contact resistance measurement Low - Cell bus bar plus to main bus bar plus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 71,
+      "defect_type": "Rework",
+      "defect_code": "C022",
+      "defect_name": "Contact resistance measurement Low - Cell minus to cell bus bar minus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 72,
+      "defect_type": "Rework",
+      "defect_code": "C023",
+      "defect_name": "Contact resistance measurement Low - Cell bus bar minus to main bus bar minus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 73,
+      "defect_type": "Rework",
+      "defect_code": "C024",
+      "defect_name": "Contact resistance measurement High - Cell minus to cell plus weld",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 74,
+      "defect_type": "Rework",
+      "defect_code": "C025",
+      "defect_name": "Contact resistance measurement High -Cell plus to cell bus bar plus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 75,
+      "defect_type": "Rework",
+      "defect_code": "C026",
+      "defect_name": "Contact resistance measurement High - Cell bus bar plus to main bus bar plus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 76,
+      "defect_type": "Rework",
+      "defect_code": "C027",
+      "defect_name": "Contact resistance measurement High - Cell minus to cell bus bar minus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 77,
+      "defect_type": "Rework",
+      "defect_code": "C028",
+      "defect_name": "Contact resistance measurement High - Cell bus bar minus to main bus bar minus ",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 78,
+      "defect_type": "Rework",
+      "defect_code": "C029",
+      "defect_name": "Flex PCB voltage Low",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 79,
+      "defect_type": "Rework",
+      "defect_code": "C030",
+      "defect_name": "Flex PCB voltage High",
+      "department": "Battery Pack Assembly",
+      "station": "Welding integrity"
+    },
+    {
+      "defect_id": 80,
+      "defect_type": "Rework",
+      "defect_code": "C031",
+      "defect_name": "Foam Glue dispensing less ",
+      "department": "Battery Pack Assembly",
+      "station": "Foam"
+    },
+    {
+      "defect_id": 81,
+      "defect_type": "Rework",
+      "defect_code": "C032",
+      "defect_name": "Foam Glue dispensing more ",
+      "department": "Battery Pack Assembly",
+      "station": "Foam"
+    },
+    {
+      "defect_id": 82,
+      "defect_type": "Rework",
+      "defect_code": "C033",
+      "defect_name": "Foam Single Glue dispensed",
+      "department": "Battery Pack Assembly",
+      "station": "Foam"
+    },
+    {
+      "defect_id": 83,
+      "defect_type": "Rework",
+      "defect_code": "C034",
+      "defect_name": "High Torque of Resistance clip",
+      "department": "Battery Pack Assembly",
+      "station": "Resistance Clip Assy."
+    },
+    {
+      "defect_id": 84,
+      "defect_type": "Rework",
+      "defect_code": "C035",
+      "defect_name": "Foam squeeze out of Z fixation at BMS side(>2 mm)",
+      "department": "Battery Pack Assembly",
+      "station": "Foam"
+    },
+    {
+      "defect_id": 85,
+      "defect_type": "Rework",
+      "defect_code": "C036",
+      "defect_name": "Thermal Glue dispensing less ",
+      "department": "Battery Pack Assembly",
+      "station": "Thermal Paste"
+    },
+    {
+      "defect_id": 86,
+      "defect_type": "Rework",
+      "defect_code": "C037",
+      "defect_name": "Thermal Glue dispensing more ",
+      "department": "Battery Pack Assembly",
+      "station": "Thermal Paste"
+    },
+    {
+      "defect_id": 87,
+      "defect_type": "Rework",
+      "defect_code": "C038",
+      "defect_name": "Thermal paste Single Glue dispensed",
+      "department": "Battery Pack Assembly",
+      "station": "Thermal Paste"
+    },
+    {
+      "defect_id": 88,
+      "defect_type": "Rework",
+      "defect_code": "C039",
+      "defect_name": "Thermal Glue miss",
+      "department": "Battery Pack Assembly",
+      "station": "Thermal Paste"
+    },
+    {
+      "defect_id": 89,
+      "defect_type": "Rework",
+      "defect_code": "C040",
+      "defect_name": "Thermal Glue Uneven",
+      "department": "Battery Pack Assembly",
+      "station": "Thermal Paste"
+    },
+    {
+      "defect_id": 90,
+      "defect_type": "Rework",
+      "defect_code": "C041",
+      "defect_name": "BMS cover(stay) screw Low torque ",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 91,
+      "defect_type": "Rework",
+      "defect_code": "C042",
+      "defect_name": "BMS cover (stay) Screw threaswashout",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 92,
+      "defect_type": "Rework",
+      "defect_code": "C043",
+      "defect_name": "BMS connection  to battery connector (Positive and negative) under torque",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 93,
+      "defect_type": "Rework",
+      "defect_code": "C044",
+      "defect_name": "BMS activation not ok passed to next process",
+      "department": "Battery Pack Assembly",
+      "station": "BMS Assy."
+    },
+    {
+      "defect_id": 94,
+      "defect_type": "Rework",
+      "defect_code": "C045",
+      "defect_name": "Insertion Glue dispensing less ",
+      "department": "Battery Pack Assembly",
+      "station": "Insertion"
+    },
+    {
+      "defect_id": 95,
+      "defect_type": "Rework",
+      "defect_code": "C046",
+      "defect_name": "Insertion glue uneven",
+      "department": "Battery Pack Assembly",
+      "station": "Insertion"
+    },
+    {
+      "defect_id": 96,
+      "defect_type": "Rework",
+      "defect_code": "C047",
+      "defect_name": "Connector screw(s) under torque",
+      "department": "Battery Pack Assembly",
+      "station": "Insertion"
+    },
+    {
+      "defect_id": 97,
+      "defect_type": "Rework",
+      "defect_code": "C048",
+      "defect_name": "Connector Screw Thread washout",
+      "department": "Battery Pack Assembly",
+      "station": "Insertion"
+    },
+    {
+      "defect_id": 98,
+      "defect_type": "Rework",
+      "defect_code": "C049",
+      "defect_name": "Connector screw(s) miss",
+      "department": "Battery Pack Assembly",
+      "station": "Insertion"
+    },
+    {
+      "defect_id": 99,
+      "defect_type": "Rework",
+      "defect_code": "C050",
+      "defect_name": "50 Kg Pull Test miss",
+      "department": "Battery Pack Assembly",
+      "station": "Pull Test"
+    },
+    {
+      "defect_id": 100,
+      "defect_type": "Rework",
+      "defect_code": "C051",
+      "defect_name": "Leak value more than 50 Pa/min",
+      "department": "Battery Pack Assembly",
+      "station": "Leak Testing"
+    },
+    {
+      "defect_id": 101,
+      "defect_type": "Rework",
+      "defect_code": "C052",
+      "defect_name": "Handle screw(s) miss",
+      "department": "Battery Pack Assembly",
+      "station": "Handle cover fitment"
+    },
+    {
+      "defect_id": 102,
+      "defect_type": "Rework",
+      "defect_code": "C053",
+      "defect_name": "Handle screw(s) M5x16 under torque ",
+      "department": "Battery Pack Assembly",
+      "station": "Handle cover fitment"
+    },
+    {
+      "defect_id": 103,
+      "defect_type": "Rework",
+      "defect_code": "C054",
+      "defect_name": "EOL cycle incomplete (Cycle NG)",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 104,
+      "defect_type": "Rework",
+      "defect_code": "C055",
+      "defect_name": "EOL Delta High",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 105,
+      "defect_type": "Rework",
+      "defect_code": "C056",
+      "defect_name": "BMS Not Respond",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 106,
+      "defect_type": "Rework",
+      "defect_code": "C057",
+      "defect_name": "BMS Status 5 Error",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 107,
+      "defect_type": "Rework",
+      "defect_code": "C058",
+      "defect_name": "BMS Status 0 Error",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 108,
+      "defect_type": "Rework",
+      "defect_code": "C059",
+      "defect_name": "Improper Laser marking - Text and barcode size wrong",
+      "department": "Battery Pack Assembly",
+      "station": "LaserMarking"
+    },
+    {
+      "defect_id": 109,
+      "defect_type": "Rework",
+      "defect_code": "C060",
+      "defect_name": "Battery Pack Appearance Dent ",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 110,
+      "defect_type": "Rework",
+      "defect_code": "C061",
+      "defect_name": "Battery Pack Appearance Scratch ",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 111,
+      "defect_type": "Rework",
+      "defect_code": "C062",
+      "defect_name": "Battery Pack Appearance Top lid open",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 112,
+      "defect_type": "Rework",
+      "defect_code": "C063",
+      "defect_name": "Battery Pack Appearance Bottom lid open",
+      "department": "Battery Pack Assembly",
+      "station": "Appearance"
+    },
+    {
+      "defect_id": 113,
+      "defect_type": "Rework",
+      "defect_code": "C064",
+      "defect_name": "Breather miss",
+      "department": "Battery Pack Assembly",
+      "station": "Others"
+    },
+    {
+      "defect_id": 114,
+      "defect_type": "Rework",
+      "defect_code": "C065",
+      "defect_name": "Rubber mat fitment NG",
+      "department": "Battery Pack Assembly",
+      "station": "Others"
+    },
+    {
+      "defect_id": 115,
+      "defect_type": "Rework",
+      "defect_code": "C066",
+      "defect_name": "Vida branding sticker miss /damage",
+      "department": "Battery Pack Assembly",
+      "station": "Branding"
+    },
+    {
+      "defect_id": 116,
+      "defect_type": "Rework",
+      "defect_code": "C067",
+      "defect_name": "Warranty sticker miss / damage",
+      "department": "Battery Pack Assembly",
+      "station": "Branding"
+    },
+    {
+      "defect_id": 117,
+      "defect_type": "Rework",
+      "defect_code": "C068",
+      "defect_name": "Barcode sticker tilted",
+      "department": "Battery Pack Assembly",
+      "station": "Branding"
+    },
+    {
+      "defect_id": 118,
+      "defect_type": "Rework",
+      "defect_code": "C069",
+      "defect_name": "Barcode sticker mismatch",
+      "department": "Battery Pack Assembly",
+      "station": "Branding"
+    },
+    {
+      "defect_id": 119,
+      "defect_type": "Rework",
+      "defect_code": "C070",
+      "defect_name": "Barcode sticker miss",
+      "department": "Battery Pack Assembly",
+      "station": "Branding"
+    },
+    {
+      "defect_id": 120,
+      "defect_type": "Rework",
+      "defect_code": "C071",
+      "defect_name": "Caution label miss",
+      "department": "Battery Pack Assembly",
+      "station": "Branding"
+    },
+    {
+      "defect_id": 121,
+      "defect_type": "T.Ok",
+      "defect_code": "C072",
+      "defect_name": "Leak test fail pack rework with loctite",
+      "department": "Battery Pack Assembly",
+      "station": ""
+    },
+    {
+      "defect_id": 122,
+      "defect_type": "Rework",
+      "defect_code": "C074",
+      "defect_name": "Cell voltage 0",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 123,
+      "defect_type": "Rework",
+      "defect_code": "C075",
+      "defect_name": "Safety Core AFE Error",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 124,
+      "defect_type": "Rework",
+      "defect_code": "C076",
+      "defect_name": "Thermal Runaway",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 125,
+      "defect_type": "Rework",
+      "defect_code": "C077",
+      "defect_name": "No Communication",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 126,
+      "defect_type": "Rework",
+      "defect_code": "C078",
+      "defect_name": "Cell Temp. High",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    },
+    {
+      "defect_id": 127,
+      "defect_type": "Rework",
+      "defect_code": "C079",
+      "defect_name": "Delta High",
+      "department": "Battery Pack Assembly",
+      "station": "EOL"
+    }
+  ],
+  "sop_rejectionrework": [
+    {
+      "uniqueid": 644,
+      "datetime": "2024-11-07 10:42:56.205 +0530",
+      "assetid": 32011,
+      "shiftid": 1,
+      "barcode": "RK651710E245",
+      "defectcode": "C051",
+      "reason": "Test",
+      "user": "G0006523",
+      "sapresponse": null,
+      "defect_type": "Rework",
+      "zone": "3.1"
+    },
+    {
+      "uniqueid": "206b0bcc-8ec2-4b6d-b193-457880c862ea",
+      "datetime": "2025-01-29 21:05:22.570 +0530",
+      "assetid": 32006,
+      "shiftid": 3,
+      "barcode": "RK651710E245",
+      "defectcode": "C020",
+      "reason": "test",
+      "user": "88880000",
+      "sapresponse": null,
+      "defect_type": "Rework",
+      "zone": 3.2
+    },
+    {
+      "uniqueid": "7c3c322a-8497-4b6e-9b2c-f2b0fd162189",
+      "datetime": "2025-01-29 21:05:22.570 +0530",
+      "assetid": 32006,
+      "shiftid": 3,
+      "barcode": "RK651710E245",
+      "defectcode": "C019",
+      "reason": "test",
+      "user": "88880000",
+      "sapresponse": null,
+      "defect_type": "Rework",
+      "zone": 3.2
+    }
+  ]
+}

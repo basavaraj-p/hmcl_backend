@@ -1,0 +1,249 @@
+{
+  "shift_highlights": "Something Happened",
+  "sop_shifts": [
+    {
+      "shiftid": 1,
+      "shiftname": "Shift - A",
+      "shiftfrom": "01:00:01Z",
+      "shiftto": "09:30:00Z"
+    },
+    {
+      "shiftid": 2,
+      "shiftname": "Shift - B",
+      "shiftfrom": "09:30:01Z",
+      "shiftto": "18:00:00Z"
+    },
+    {
+      "shiftid": 3,
+      "shiftname": "Shift - C",
+      "shiftfrom": "18:00:01Z",
+      "shiftto": "01:00:00Z"
+    }
+  ],
+  "sop_shiftbreaks": [
+    {
+      "shiftid": 1,
+      "breakstart": "09:10:00Z",
+      "breakend": "09:30:00Z",
+      "breakdescription": "Calibration",
+      "zones": null,
+      "breakid": 21
+    },
+    {
+      "shiftid": 2,
+      "breakstart": "17:40:00Z",
+      "breakend": "18:00:00Z",
+      "breakdescription": "Calibration",
+      "zones": null,
+      "breakid": 22
+    },
+    {
+      "shiftid": 3,
+      "breakstart": "00:40:00Z",
+      "breakend": "01:00:00Z",
+      "breakdescription": "Calibration",
+      "zones": null,
+      "breakid": 23
+    }
+  ],
+  "sop_shiftscheduler": [
+    {
+      "scheduleid": 2103,
+      "scheduledate": "2025-01-31",
+      "shiftid": 1,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.1",
+      "assetid": 31010,
+      "machineshortname": "31Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2106,
+      "scheduledate": "2025-01-31",
+      "shiftid": 1,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.2",
+      "assetid": 32010,
+      "machineshortname": "32Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2109,
+      "scheduledate": "2025-01-31",
+      "shiftid": 1,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.3",
+      "assetid": 33010,
+      "machineshortname": "33Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2112,
+      "scheduledate": "2025-01-31",
+      "shiftid": 1,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.4",
+      "assetid": 34010,
+      "machineshortname": "34Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2115,
+      "scheduledate": "2025-01-31",
+      "shiftid": 1,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "4",
+      "assetid": 40001,
+      "machineshortname": "EOL",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2118,
+      "scheduledate": "2025-01-31",
+      "shiftid": 1,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "4",
+      "assetid": 40005,
+      "machineshortname": "LaserMarking",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2119,
+      "scheduledate": "2025-01-31",
+      "shiftid": 2,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "4",
+      "assetid": 40005,
+      "machineshortname": "LaserMarking",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2116,
+      "scheduledate": "2025-01-31",
+      "shiftid": 2,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "4",
+      "assetid": 40001,
+      "machineshortname": "EOL",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2113,
+      "scheduledate": "2025-01-31",
+      "shiftid": 2,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.4",
+      "assetid": 34010,
+      "machineshortname": "34Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2110,
+      "scheduledate": "2025-01-31",
+      "shiftid": 2,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.3",
+      "assetid": 33010,
+      "machineshortname": "33Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2107,
+      "scheduledate": "2025-01-31",
+      "shiftid": 2,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.2",
+      "assetid": 32010,
+      "machineshortname": "32Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2104,
+      "scheduledate": "2025-01-31",
+      "shiftid": 2,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.1",
+      "assetid": 31010,
+      "machineshortname": "31Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2105,
+      "scheduledate": "2025-01-31",
+      "shiftid": 3,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.1",
+      "assetid": 31010,
+      "machineshortname": "31Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2108,
+      "scheduledate": "2025-01-31",
+      "shiftid": 3,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.2",
+      "assetid": 32010,
+      "machineshortname": "32Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2111,
+      "scheduledate": "2025-01-31",
+      "shiftid": 3,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.3",
+      "assetid": 33010,
+      "machineshortname": "33Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2114,
+      "scheduledate": "2025-01-31",
+      "shiftid": 3,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "3.4",
+      "assetid": 34010,
+      "machineshortname": "34Insertion",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2117,
+      "scheduledate": "2025-01-31",
+      "shiftid": 3,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "4",
+      "assetid": 40001,
+      "machineshortname": "EOL",
+      "isbottleneck": 1
+    },
+    {
+      "scheduleid": 2120,
+      "scheduledate": "2025-01-31",
+      "shiftid": 3,
+      "isenabled": 1,
+      "performance": null,
+      "zones": "4",
+      "assetid": 40005,
+      "machineshortname": "LaserMarking",
+      "isbottleneck": 1
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "sop_weeklymaintenancezone": [
+    {
+      "date": "2025-01-01",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 98.89,
+      "bdminutes": 14.0,
+      "bdnumbers": 1,
+      "mttr": 0.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-02",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 88.89,
+      "bdminutes": 10.0,
+      "bdnumbers": 11,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-03",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 85.89,
+      "bdminutes": 6.0,
+      "bdnumbers": 9,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-04",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 87.89,
+      "bdminutes": 2.0,
+      "bdnumbers": 10,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-05",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 82.89,
+      "bdminutes": 9.0,
+      "bdnumbers": 11,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-06",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 81.89,
+      "bdminutes": 10.0,
+      "bdnumbers": 12,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-07",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 82.89,
+      "bdminutes": 1.0,
+      "bdnumbers": 9,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-08",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 83.89,
+      "bdminutes": 2.0,
+      "bdnumbers": 8,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-09",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 84.89,
+      "bdminutes": 3.0,
+      "bdnumbers": 5,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-10",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 85.89,
+      "bdminutes": 4.0,
+      "bdnumbers": 9,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-11",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 86.89,
+      "bdminutes": 5.0,
+      "bdnumbers": 10,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-12",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 87.89,
+      "bdminutes": 6.0,
+      "bdnumbers": 8,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-13",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 88.89,
+      "bdminutes": 7.0,
+      "bdnumbers": 7,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-14",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 89.89,
+      "bdminutes": 8.0,
+      "bdnumbers": 9,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-15",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 90.89,
+      "bdminutes": 9.0,
+      "bdnumbers": 6,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-16",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 81.89,
+      "bdminutes": 10.0,
+      "bdnumbers": 10,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-17",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 82.89,
+      "bdminutes": 6.0,
+      "bdnumbers": 11,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-18",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 83.89,
+      "bdminutes": 8.0,
+      "bdnumbers": 12,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-19",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 84.89,
+      "bdminutes": 9.0,
+      "bdnumbers": 13,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-20",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 85.89,
+      "bdminutes": 10.0,
+      "bdnumbers": 14,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-21",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 86.89,
+      "bdminutes": 9.0,
+      "bdnumbers": 9,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-22",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 87.89,
+      "bdminutes": 10.0,
+      "bdnumbers": 9,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-23",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 88.89,
+      "bdminutes": 11.0,
+      "bdnumbers": 10,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-24",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 89.89,
+      "bdminutes": 3.0,
+      "bdnumbers": 7,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-25",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 90.89,
+      "bdminutes": 8.0,
+      "bdnumbers": 10,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-26",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 81.89,
+      "bdminutes": 9.0,
+      "bdnumbers": 12,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-27",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 82.89,
+      "bdminutes": 10.0,
+      "bdnumbers": 10,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-28",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 83.89,
+      "bdminutes": 11.0,
+      "bdnumbers": 12,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-29",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 84.89,
+      "bdminutes": 12.0,
+      "bdnumbers": 13,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    },
+    {
+      "date": "2025-01-30",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 85.89,
+      "bdminutes": 9.0,
+      "bdnumbers": 10,
+      "mttr": 2.23,
+      "mtbf": 1.77
+    },
+    {
+      "date": "2025-01-31",
+      "zone": "3.1",
+      "availabletime": 95.83,
+      "uptime": 86.89,
+      "bdminutes": 10.0,
+      "bdnumbers": 12,
+      "mttr": 1.23,
+      "mtbf": 2.77
+    }
+  ]
+}
